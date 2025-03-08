@@ -1,4 +1,4 @@
-![Logo da faculdade](https://francomontoro.com.br/wp-content/uploads/2022/07/image-1.png)
+<img src= "https://francomontoro.com.br/wp-content/uploads/2022/07/image-1.png">
 
 # ESTRUTURA DE DADOS
 Repositório onde se encontra todas as tarefas feitas de estruturas de dados utilizando linguagem c++.
